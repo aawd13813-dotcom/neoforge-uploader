@@ -1,0 +1,13 @@
+{
+  "essentialsync.configuration.title": "EssentialSync Configuration",
+  "essentialsync.configuration.enabled": "Enable EssentialSync",
+  "essentialsync.configuration.endpointUrl": "S3 Endpoint URL",
+  "essentialsync.configuration.region": "S3 Region",
+  "essentialsync.configuration.bucketName": "S3 Bucket Name",
+  "essentialsync.configuration.accessKeyId": "Access Key ID",
+  "essentialsync.configuration.secretAccessKey": "Secret Access Key",
+  "essentialsync.configuration.worldFolderName": "World Folder Name",
+  "essentialsync.configuration.autoSyncIntervalMinutes": "Auto-Sync Interval (Minutes)",
+  "essentialsync.configuration.maxSnapshots": "Max Retained Snapshots",
+  "essentialsync.configuration.discordWebhookUrl": "Discord Webhook URL"
+}

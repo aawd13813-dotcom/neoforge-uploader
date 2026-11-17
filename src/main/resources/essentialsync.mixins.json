@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.essentialsync.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "WorldOpenFlowsMixin",
+    "SelectWorldScreenMixin",
+    "WorldListEntryMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
